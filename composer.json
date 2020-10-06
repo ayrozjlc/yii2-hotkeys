@@ -1,0 +1,32 @@
+{
+  "name": "ayrozjlc/yii2-hotkeys",
+  "description": "AssetBundle for hotkeys.js",
+  "keywords": [
+    "yii2",
+    "asset",
+    "AssetBundle",
+    "hotkeysjs",
+    "hotkeys-js",
+  ],
+  "type": "yii2-extension",
+  "license": "BSD-3-Clause",
+  "support": {
+    "source": "https://github.com/ayrozjlc/yii2-hotkeys"
+  },
+  "authors": [
+    {
+      "name": "Jose Lopez Chavez(ayrozjlc)",
+      "email": "ayroz.jlc@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "ayrozjlc\\hotkeys\\": ""
+    }
+  },
+  "minimum-stability": "dev",
+  "require": {
+    "bower-asset/hotkeysjs": "*",
+    "yiisoft/yii2": "2.0.*"
+  }
+}
