@@ -6,7 +6,7 @@
     "asset",
     "AssetBundle",
     "hotkeysjs",
-    "hotkeys-js",
+    "hotkeys-js"
   ],
   "type": "yii2-extension",
   "license": "BSD-3-Clause",
